@@ -10,7 +10,7 @@ The FAA invites student participants who currently use Minecraft software to cre
 
 ## Project Resources
 
-###  [Official Project GitHub Repo:](https://github.com/Proper-Bandits/FAA-AVSED-Minecraft-Challenge-2020/)
+###  [Official Project GitHub Repo](https://github.com/Proper-Bandits/FAA-AVSED-Minecraft-Challenge-2020/)
 
 ### [Wallops Flight Facility (KWAL) Minecraft World Save](https://github.com/Proper-Bandits/FAA-AVSED-Minecraft-Challenge-2020/tree/master/minecraft/saves/FAAChallenge)
 
